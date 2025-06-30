@@ -1,0 +1,36 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{}%
+\contentsline {section}{\numberline {2}Model Study}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Direct Model}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Weak Formulation}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Adjoint Model}{2}{}%
+\contentsline {subsection}{\numberline {2.4}Classical Form}{3}{}%
+\contentsline {section}{\numberline {3}Gradient Expression}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Objective Function}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Explicit Form of the Gradient}{3}{}%
+\contentsline {subsection}{\numberline {3.3}Examples of Regularization Terms}{3}{}%
+\contentsline {subsection}{\numberline {3.4}Gradient Test}{3}{}%
+\contentsline {section}{\numberline {4}Non-Uniqueness of the Control \( b(x) \)}{4}{}%
+\contentsline {subsection}{\numberline {4.1}Role of Regularization}{4}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}\( L^2 \) Bathymetry Regularization}{4}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}First Derivative Regularization}{5}{}%
+\contentsline {subsubsection}{\numberline {4.1.3}Second Derivative Regularization}{5}{}%
+\contentsline {paragraph}{Numerical Solution Selection}{5}{}%
+\contentsline {section}{\numberline {5}Analysis of the Direct Model}{5}{}%
+\contentsline {subsection}{\numberline {5.1}Filtering Behavior of the Model}{6}{}%
+\contentsline {subsection}{\numberline {5.2}Implications for the Inverse Problem}{6}{}%
+\contentsline {section}{\numberline {6}Influence of Regularization and/or \( b_{\text {first}} \) and \( b_{\text {background}} \)}{6}{}%
+\contentsline {subsection}{\numberline {6.1}Without Regularization}{6}{}%
+\contentsline {paragraph}{Analysis of Results}{7}{}%
+\contentsline {subsection}{\numberline {6.2}With Background-Type Regularization}{8}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}With Constant \( \alpha _{\text {reg}} \)}{8}{}%
+\contentsline {subsubsection}{\numberline {6.2.2}With Decreasing \( \alpha _{\text {reg}} \)}{10}{}%
+\contentsline {paragraph}{Analysis of Results}{12}{}%
+\contentsline {subsection}{\numberline {6.3}Gradient-Type Regularization}{13}{}%
+\contentsline {paragraph}{Analysis of Results}{14}{}%
+\contentsline {section}{\numberline {7}Choosing Appropriate \( b_{\text {background}} \) and \( b_{\text {first}} \)}{14}{}%
+\contentsline {paragraph}{Analysis of Results}{16}{}%
+\contentsline {section}{\numberline {8}Our Own Test Cases}{16}{}%
+\contentsline {subsection}{\numberline {8.1}Case 1: No Prior Information (Unmonitored Case)}{16}{}%
+\contentsline {subsection}{\numberline {8.2}Case 2: Using Prior Information (Monitored Case)}{16}{}%
+\contentsline {section}{\numberline {9}Conclusion}{17}{}%
